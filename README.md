@@ -1,0 +1,2 @@
+# mynewrepo
+Git practice
